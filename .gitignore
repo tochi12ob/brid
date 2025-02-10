@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Alembic migrations
+alembic/versions/
+
+# IDE / Editor files
+.vscode/
+*.swp
